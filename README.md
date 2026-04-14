@@ -1,8 +1,6 @@
 # 💩 Take A Shit With AI 💩
 
-*"소프트웨어 공학의 Best Practice를 부수고, 흑마법을 소환하라."*
-
-Welcome to **Take A Shit With AI** — 인간과 AI가 합작하여 만들어낸, 실무에서 마주치는 순간 당장 퇴사를 결심하게 만드는 **예술적인 똥코드(Artisan Esoteric Code)**의 명예의 전당입니다.
+Welcome to **Take A Shit With AI** — 인간과 AI가 합작하여 만들어낸, **예술적인 똥코드(Artisan Esoteric Code)**의 명예의 전당입니다.
 
 우리는 가독성을 혐오하며, 유지보수성을 경멸합니다.
 이곳에 모인 코드들은 오직 단 하나의 목적을 가집니다: **분석하는 자의 멘탈 붕괴(Mental Breakdown).**
